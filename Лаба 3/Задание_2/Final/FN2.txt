@@ -1,0 +1,16 @@
+Result: 740
+
+Transformed tree:
+    5
+/
+            2
+        ^
+                    x
+                *
+                    4
+            +
+                3
+    *
+            x
+        +
+            2
